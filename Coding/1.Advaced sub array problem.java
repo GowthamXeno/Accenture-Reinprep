@@ -20,3 +20,4 @@ class Main{
         System.out.println(MaxScore);
     }
 }
+//testcase passed : 5/5
