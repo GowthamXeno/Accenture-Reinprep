@@ -37,3 +37,4 @@ class Main {
         return list1.get(0);
     }
 }
+//testcase passed : 3/5
